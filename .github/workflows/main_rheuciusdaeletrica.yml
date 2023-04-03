@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'rheuciusdaeletrica'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5433220689BD498D897D7EDD7EA2F423 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE638C35779A49208232E50DA069D6E8 }}
           package: .
